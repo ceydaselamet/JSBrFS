@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JSbrFS.iml" filepath="$PROJECT_DIR$/JSbrFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta_2/odev_1/odev_1.iml" filepath="$PROJECT_DIR$/hafta_2/odev_1/odev_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta_2/odev_2/odev_2.iml" filepath="$PROJECT_DIR$/hafta_2/odev_2/odev_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta_2/odev_3/odev_3.iml" filepath="$PROJECT_DIR$/hafta_2/odev_3/odev_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta_2/odev_4/odev_4.iml" filepath="$PROJECT_DIR$/hafta_2/odev_4/odev_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta_2/odev_5/odev_5.iml" filepath="$PROJECT_DIR$/hafta_2/odev_5/odev_5.iml" />
+    </modules>
+  </component>
+</project>
