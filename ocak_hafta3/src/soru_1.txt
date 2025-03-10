@@ -1,0 +1,20 @@
+Koşullu ifadeler (if-else), bir programda belşrkş koşullara göre farklı işlemler gerçekleştirir
+Belirli bir koşulun doğru olup olmadığına bakar.
+Temel yapı şu şekildedir:
+
+if(koşul){
+    //Koşul doğruysa gerçekleştirilir
+} else{
+    //Koşul yanlışsa gerçekleştirilir
+}
+
+Eğer koşul 0 veya false ise yanlış, diğer tüm durumlarda doğru kabul edilir.
+
+Örnek: Örneğin bir not sisteminde 50 ve üzeri not alan öğrenciler geçti diğer durumlarda kaldı
+olarak kabul edilecekse aşağıdaki gibi bir koşul yazılabilir
+
+int not;
+if(not >= 50)
+    System.out.println("Geçti");
+else
+    System.out.println("Kaldı");

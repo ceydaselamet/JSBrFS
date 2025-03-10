@@ -1,0 +1,17 @@
+int a = 10;
+double b = 3.5;
+System.out.println(a + b);
+
+int a = 10;
+- a isimli tam sayı değeri tutan bir değişken oluşturulur ve 10 sayısı atanır
+
+double b = 3.5;
+- b isimli ondalıklı sayılar tutan bir değişken oluşturulur ve 3.5 sayısı atanır
+
+System.out.println(a + b);
+- a ve b değerleri toplanır ve sonuç ekrana yazdırılır.
+- int olan a sayısının double olan b sayısına eklenmesi durumunda otomatik olarak tür dönüşümü yapılır
+- Yani int olan a sayısı artık double türüne dönüştürülür
+- a = 10.0 olur
+- a + b = 13.5
+- Kodun çıktısı 13.5 olarak ekrana yazdırılır.

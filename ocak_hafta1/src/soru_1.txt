@@ -1,0 +1,10 @@
+Java, James Gosling tarafından Sun Microsystems'ta geliştirilen bir programlama dilidir.
+Nesne yönelimli bir programlama dilidir.
+JVM üzerinde çalıştırıldığından platformdan bağımsızdır. Bir Kez Yaz Her Yerde Çalıştır
+Çoklu işlemleri yönetme konusunda güçlüdür (Multithreading desteği). CPU yükünü azaltır
+
+Java EE veya Spring Framework ile server-side geliştirilebilir
+Android SDK ve Java ile mobil uygulama geliştirilebilir
+Java, Swing ve JavaFX ile masaüstü uygulamalar geliştirilebilir
+Oyun geliştirme, dağıtık sistemlerde ve nesnelerin interneti gibi alanlarda da kullanılır.
+

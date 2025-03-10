@@ -4,11 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JSbrFS.iml" filepath="$PROJECT_DIR$/JSbrFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/hafta_4/hafta_4.iml" filepath="$PROJECT_DIR$/hafta_4/hafta_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocak_hafta1/ocak_hafta1.iml" filepath="$PROJECT_DIR$/ocak_hafta1/ocak_hafta1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocak_hafta2/ocak_hafta2.iml" filepath="$PROJECT_DIR$/ocak_hafta2/ocak_hafta2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocak_hafta3/ocak_hafta3.iml" filepath="$PROJECT_DIR$/ocak_hafta3/ocak_hafta3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocak_hafta4/ocak_hafta4.iml" filepath="$PROJECT_DIR$/ocak_hafta4/ocak_hafta4.iml" />
       <module fileurl="file://$PROJECT_DIR$/hafta_2/odev_1/odev_1.iml" filepath="$PROJECT_DIR$/hafta_2/odev_1/odev_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/hafta_2/odev_2/odev_2.iml" filepath="$PROJECT_DIR$/hafta_2/odev_2/odev_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/hafta_2/odev_3/odev_3.iml" filepath="$PROJECT_DIR$/hafta_2/odev_3/odev_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/hafta_2/odev_4/odev_4.iml" filepath="$PROJECT_DIR$/hafta_2/odev_4/odev_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/hafta_2/odev_5/odev_5.iml" filepath="$PROJECT_DIR$/hafta_2/odev_5/odev_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subat_hafta1/subat_hafta1.iml" filepath="$PROJECT_DIR$/subat_hafta1/subat_hafta1.iml" />
     </modules>
   </component>
 </project>

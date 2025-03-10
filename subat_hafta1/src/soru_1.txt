@@ -1,0 +1,13 @@
+Dizi (Array), aynı türdeki verilerin bir arada tutulmasını sağlayan veri yapısıdır.
+Bir dizi, birden fazla elemanı sıralı bir şekilde tutar ve her elemana, dizinin sırasına göre bir indeks ile ulaşılabilir.
+Diziler, sabit uzunluktadır ve tüm elemanlar aynı veri tipine sahip olmalıdır.
+Java'da diziler, bellekte ardışık olarak depolanır ve dizinin her bir elemanına 0'dan başlayan bir indeks ile erişilir.
+
+Java'da dizi tanımlama şu şekillerde olabilir:
+
++ veriTipi[] diziAdı;
+- int[] sayilar;
+-String[] isimler;
+
++ veriTipi[] diziAdi = new veriTipi[boyut];
+- int[] sayilar = new int[5];

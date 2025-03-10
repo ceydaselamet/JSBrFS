@@ -1,0 +1,21 @@
+
+JDK (Java Development Kit) : Java uygulamalı geliştirmek için gerekli olan tüm araçları içeren yazılım paketidir.
+İçeriği:
+-Java Compiler(javac): Java kodlarını derler. .java dosyalarını .class dosyalarına dönüştürür
+-JRE(Java Runtime Environment): Programların çalışabilmesi için gerekli ortamı sağlar
+-Java API
+-Debugger: Hata ayıklamak için kullanılır
+-Javadoc: Java kodunu belgelerken kullanılır
+
+JRE (Java Runtime Environment) : Java uygulamalarını çalıştırmak için gerekli ortamı sağlar.
+İçeriği:
+-JVM(Java Virtual Machine) : Java uygulamalarını çalıştıran ve platform bağımsız hale getiren bileşen.
+-Java Kütüphaneleri: Java API sınıfları (String, Collections, I/O sınıfları vb) ve diğer yardımcı dosyalar
+-Yürütme Araçları: Java uygulamasını çalıştırmak için kullanılan araçlar, örneğin java komutu.
+
+JVM (Java Virtual Machine) : Java bytecodelarını çalıştıran bir sanal makinedir.
+Java ile yazılan kod, derlendikten sonra bytecode adı verilen platformdan bağımsız bir formata dönüştürülür.
+JVM, bu bytecodeları hedef işletim sisteminde çalıştırılabilir hale getirir.
+-Platform bağımsızlık sağlar. Bir Kez Yaz Her Yerde Çalıştır
+-Bellek yönetimi, çöp toplama ve yönetim işlemlerini içerir.
+-Just In Time(JIT) Compilation ile kodu çalıştırmadan önce hızlandırır.

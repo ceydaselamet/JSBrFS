@@ -1,0 +1,27 @@
+Döngüler, belirli bir koşul doğru olduğu sürece işlemi tekrar tekrar yapmayı sağlar.
+İşlem setini otomatikleştirir ve kod tekrarını önler.
+
+for (başlangıç ; koşul ; artış/azalış) {
+    // Çalıştırılacak kod
+}
+
+for döngüsü: Bir işlemi belirli sayısa tekrarlamak için kullanılır
+başlangıç: Döngü değişkeni başlatılır
+koşul: Döngünün devamı için kontrol edilen koşuldur.
+artış/azalış: Döngü değişkeninin nası artırılacağı veya azaltılacağı belirtilir.
+
+
+
+while(koşul)
+{
+    // Çalıştırılacak kod
+}
+
+while döngüsü: Koşul doğru olduğu sürece çalışır. Koşul başlangıçta kontrol edilir.
+Döngü sayısı bilinmediğinde belirli bir koşul sağlanana kadar tekrarlanması gerektiğinde kullanlır.
+
+
+
+Kullanım Alanları:
+-Diziyi veya listeyi gezmek
+-Arama, sıralama gibi algoritmalarda kullanmak

@@ -1,0 +1,10 @@
+Veri Tipi       Boyut           Kullanım Alanı
+---------       ------         ----------------
+byte             8 bit           küçük tam sayılar
+short            16 bit          küçük tam sayılar
+int              32 bit          tam sayılar
+long             64 bit          çok büyük tam sayılar
+float            32 bit          ondalıklı sayılar
+double           64 bit          yüksek hassasiyetli ondalıklı sayılar
+char             16 bit          karakter
+boolean          8 bit           mantıksal değer (true-false)
